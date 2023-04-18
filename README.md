@@ -14,6 +14,7 @@
 📫 **Cвязаться со мной**: 
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ksnknk)
+[![Gmail Badge](https://img.shields.io/badge/-mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kosenkonikita214@gmail.com)
   
 📄 **Мое резюме**: [Резюме](https://spb.hh.ru/resume/08781608ff0b8106090039ed1f7a4d6f76735a)
   
